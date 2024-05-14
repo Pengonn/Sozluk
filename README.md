@@ -1,0 +1,1 @@
+Oyunlardaki Kısaltmaları Söyler.
